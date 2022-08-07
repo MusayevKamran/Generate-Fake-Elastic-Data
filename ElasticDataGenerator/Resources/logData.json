@@ -1,0 +1,9 @@
+{
+  "CleanBefore": true,
+  "Fillers": [
+    {
+      "Count": 100,
+      "Message": "New Message"
+    }
+  ]
+}
